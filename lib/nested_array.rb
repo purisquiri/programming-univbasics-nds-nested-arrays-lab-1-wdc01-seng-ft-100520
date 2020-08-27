@@ -30,7 +30,7 @@ def sorted_matrix
     ORGANIC_PRODUCE.sort
   ] 
   
-  produce_storage_room
+  
 end
 
 def matrix_lookup(matrix, row, column)
