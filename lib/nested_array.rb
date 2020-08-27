@@ -17,7 +17,7 @@ CONVENTIONAL_PRODUCE = [
 ]
 
 def assembled_matrix
-  produce_storage_room = [
+  produce_storage_room = [[
   "Grapefruit",
   "Pineapple",
   "Oranges",
@@ -31,8 +31,9 @@ def assembled_matrix
   "Avocadoes",
   "Asparagus"
   ]
+]  
   
- end
+end
 
 def sorted_matrix
   # Using Array literal syntax only, build another nested array that 
