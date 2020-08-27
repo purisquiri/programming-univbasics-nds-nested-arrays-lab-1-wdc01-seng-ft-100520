@@ -51,7 +51,7 @@ def sorted_matrix
   "Asparagus"
   ]
 ]   
-  produce_storage_room.sort!
+  produce_storage_room.sort()()
   produce_storage_room
 end
 
